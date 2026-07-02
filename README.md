@@ -54,6 +54,12 @@ brew install --cask autokalena
 ```
 </details>
 
+Para **actualizar** a una versión nueva (Homebrew cachea el cask):
+
+```bash
+brew update && brew upgrade --cask autokalena
+```
+
 La app no está firmada (sin cuenta de Apple Developer); el cask **retira la cuarentena de
 Gatekeeper** tras instalar, así que abre sin bloqueos.
 
