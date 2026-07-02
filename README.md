@@ -61,6 +61,18 @@ brew install --cask autokalena
 La app no está firmada (sin cuenta de Apple Developer); el cask **retira la cuarentena de
 Gatekeeper** tras instalar, así que abre sin bloqueos.
 
+### 🐧 Linux desde terminal
+
+Descarga la última versión, dale permisos y ejecútala (una línea):
+
+```bash
+curl -L -o ~/.local/bin/autokalena https://github.com/emilio-carrasco/autokalena/releases/latest/download/AutoKalena-x86_64.AppImage \
+  && chmod +x ~/.local/bin/autokalena && autokalena
+```
+
+<sub>Requiere WebKitGTK 4.1 del sistema (p. ej. `sudo apt install libwebkit2gtk-4.1-0`). Si
+`~/.local/bin` no está en tu `PATH`, ejecútala con la ruta completa.</sub>
+
 ---
 
 ## 🚀 Primeros pasos
