@@ -20,13 +20,26 @@ Docker, ni Python, ni cuentas): descargas, abres y listo.
 
 ## ⬇️ Descarga
 
-Ve a **[Releases](../../releases/latest)** y baja el archivo de tu sistema:
+Descarga directa de la **última versión** para tu sistema:
 
-| Sistema | Archivo | Cómo se abre |
-|---|---|---|
-| 🪟 **Windows** | `AutoKalena-windows.zip` | Descomprime y ejecuta `AutoKalena.exe` |
-| 🍎 **macOS** | `AutoKalena-macos.dmg` | Ábrelo y arrastra AutoKalena a Aplicaciones |
-| 🐧 **Linux** | `AutoKalena-x86_64.AppImage` | Dale permiso de ejecución y haz doble clic |
+<p align="center">
+  <a href="https://github.com/emilio-carrasco/autokalena/releases/latest/download/AutoKalena-macos.dmg">
+    <img src="https://img.shields.io/badge/Descargar-macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Descargar para macOS"></a>
+  &nbsp;
+  <a href="https://github.com/emilio-carrasco/autokalena/releases/latest/download/AutoKalena-windows.zip">
+    <img src="https://img.shields.io/badge/Descargar-Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white" alt="Descargar para Windows"></a>
+  &nbsp;
+  <a href="https://github.com/emilio-carrasco/autokalena/releases/latest/download/AutoKalena-x86_64.AppImage">
+    <img src="https://img.shields.io/badge/Descargar-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Descargar para Linux"></a>
+</p>
+
+<p align="center"><sub>Los botones apuntan siempre a la última release · <a href="../../releases/latest">ver todas las descargas y notas</a></sub></p>
+
+| Sistema | Cómo se abre |
+|---|---|
+| 🍎 **macOS** | Abre el `.dmg` y arrastra AutoKalena a Aplicaciones |
+| 🪟 **Windows** | Descomprime el `.zip` y ejecuta `AutoKalena.exe` |
+| 🐧 **Linux** | Da permiso de ejecución al `.AppImage` y haz doble clic |
 
 ---
 
