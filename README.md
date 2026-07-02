@@ -26,9 +26,6 @@ Descarga directa de la **última versión** para tu sistema:
   <a href="https://github.com/emilio-carrasco/autokalena/releases/latest/download/AutoKalena-macos.dmg">
     <img src="https://img.shields.io/badge/Descargar-macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Descargar para macOS"></a>
   &nbsp;
-  <a href="https://github.com/emilio-carrasco/autokalena/releases/latest/download/AutoKalena-windows.zip">
-    <img src="https://img.shields.io/badge/Descargar-Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white" alt="Descargar para Windows"></a>
-  &nbsp;
   <a href="https://github.com/emilio-carrasco/autokalena/releases/latest/download/AutoKalena-x86_64.AppImage">
     <img src="https://img.shields.io/badge/Descargar-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Descargar para Linux"></a>
 </p>
@@ -38,7 +35,6 @@ Descarga directa de la **última versión** para tu sistema:
 | Sistema | Cómo se abre |
 |---|---|
 | 🍎 **macOS** | Abre el `.dmg` y arrastra AutoKalena a Aplicaciones |
-| 🪟 **Windows** | Descomprime el `.zip` y ejecuta `AutoKalena.exe` |
 | 🐧 **Linux** | Da permiso de ejecución al `.AppImage` y haz doble clic |
 
 ### 🍺 macOS con Homebrew
