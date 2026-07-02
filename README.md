@@ -41,6 +41,26 @@ Descarga directa de la **última versión** para tu sistema:
 | 🪟 **Windows** | Descomprime el `.zip` y ejecuta `AutoKalena.exe` |
 | 🐧 **Linux** | Da permiso de ejecución al `.AppImage` y haz doble clic |
 
+### 🍺 macOS con Homebrew
+
+Si usas [Homebrew](https://brew.sh), instálalo con un solo comando (se auto-añade el tap):
+
+```bash
+brew install --cask emilio-carrasco/autokalena/autokalena
+```
+
+<details>
+<summary>o en dos pasos</summary>
+
+```bash
+brew tap emilio-carrasco/autokalena
+brew install --cask autokalena
+```
+</details>
+
+La app no está firmada (sin cuenta de Apple Developer); el cask **retira la cuarentena de
+Gatekeeper** tras instalar, así que abre sin bloqueos.
+
 ---
 
 ## 🚀 Primeros pasos
